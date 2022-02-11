@@ -1,0 +1,93 @@
+@import "null.css";
+
+@font-face {
+    font-family: circularStd;
+    src: url("../fonts/CircularStd-Book.woff2") format("woff2"), url("../fonts/CircularStd-Book.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}   
+@font-face {
+    font-family: circularStd;
+    src: url("../fonts/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}   
+@font-face {
+    font-family: circularStd;
+    src: url("../fonts/CircularStd-Medium.woff2") format("woff2"), url("../fonts/CircularStd-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}   
+@font-face {
+    font-family: circularStd;
+    src: url("../fonts/CircularStd-Black.woff2") format("woff2"), url("../fonts/CircularStd-Black.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}   
+h1{
+    font-family: circularStd;
+    font-weight: 700;
+    font-size: 65px;
+    color:  #313131;
+    margin: 50px 250px 30px 300px;
+    
+}
+p{
+    font-family: circularStd;
+    font-weight: normal;
+    font-size: 20px;
+    color:  #5F5F5F;
+    margin-top: 20px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    text-align: center;
+    line-height: 25px;
+    
+
+}
+h2{
+    font-family: circularStd;
+    font-weight: 700;
+    font-size: 34px;
+    color:  #313131;
+    margin:300px 850px 20px 100px;
+
+    
+}
+.block{
+    font-family: circularStd;
+    font-weight: normal;
+    font-size: 18px;
+    color:  #5F5F5F;
+    margin-top: 0px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    line-height: 28px;
+
+}
+h3{
+    font-family: circularStd;
+    font-weight: 700;
+    font-size: 18px;
+    color:  #313131;
+    margin:  100px 950px 5px 100px;
+    
+
+}
+h4{
+    font-family: circularStd;
+    font-weight: normal;
+    font-size: 18px;
+    color:  #B8B8B8;
+    padding: 5px 700px 20px 100px;
+    
+}
+
+
+
